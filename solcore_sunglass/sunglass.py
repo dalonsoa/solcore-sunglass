@@ -1,6 +1,6 @@
 import matplotlib
 
-matplotlib.use('TkAgg')
+#matplotlib.use('TkAgg')
 
 import tkinter as tk
 from tkinter import ttk

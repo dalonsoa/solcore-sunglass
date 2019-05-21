@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pyyaml
+pandas
+tkcalendar
+git+https://github.com/qpv-research-group/solcore5.git@sunglass
